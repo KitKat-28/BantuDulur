@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BantuDulur</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="Detail">Ini adalah Detail</string>
+    <string name="Tittle">Ini adalah Judul</string>
+    <string name="bantu_sekarang">Bantu Sekarang</string>
+    <string name="profile">Profile</string>
+    <string name="myname">Mella Aulia Agusty</string>
+    <string name="myemail">agustymella@gmail.com</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="bantu">Bantu Sekarang Juga</string>
+</resources>
